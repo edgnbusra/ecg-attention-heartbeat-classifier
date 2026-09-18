@@ -1,0 +1,13 @@
+{
+  "id": "hffjbrbbgmailcom/ecg-attention-heartbeat-classifier",
+  "title": "ECG Attention Heartbeat Classifier",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": ["mondejar/mitbih-database"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

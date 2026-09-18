@@ -1,0 +1,9 @@
+data/*.csv
+data/*.npz
+data/*.dat
+data/*.hea
+data/*.atr
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/model.pt

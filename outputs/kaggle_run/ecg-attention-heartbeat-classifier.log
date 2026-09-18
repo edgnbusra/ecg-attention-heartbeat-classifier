@@ -1,0 +1,155 @@
+[{"stream_name":"stderr","time":8.216602117,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":8.216686089,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":9.537452523,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.537491763,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.537498054,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.537502022,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":10.377823467,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":10.377869654,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":10.377875679,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":10.377880501,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":18.850653367,"data":"Device: cpu\n"}
+,{"stream_name":"stdout","time":19.835099176,"data":"Veri klasoru bulundu: /kaggle/input/mitbih-database\n"}
+,{"stream_name":"stdout","time":20.175902703,"data":"100: toplam atis so far = 2271\n"}
+,{"stream_name":"stdout","time":20.499520802,"data":"101: toplam atis so far = 4133\n"}
+,{"stream_name":"stdout","time":20.795601402,"data":"103: toplam atis so far = 6216\n"}
+,{"stream_name":"stdout","time":21.10832583,"data":"105: toplam atis so far = 8783\n"}
+,{"stream_name":"stdout","time":21.390378296,"data":"106: toplam atis so far = 10810\n"}
+,{"stream_name":"stdout","time":21.686817981,"data":"108: toplam atis so far = 12572\n"}
+,{"stream_name":"stdout","time":22.025896769,"data":"109: toplam atis so far = 15102\n"}
+,{"stream_name":"stdout","time":22.358898461,"data":"111: toplam atis so far = 17226\n"}
+,{"stream_name":"stdout","time":22.73279492,"data":"112: toplam atis so far = 19763\n"}
+,{"stream_name":"stdout","time":23.021127387,"data":"113: toplam atis so far = 21557\n"}
+,{"stream_name":"stdout","time":23.311467473,"data":"114: toplam atis so far = 23436\n"}
+,{"stream_name":"stdout","time":23.738486018,"data":"115: toplam atis so far = 25388\n"}
+,{"stream_name":"stdout","time":24.041191765,"data":"116: toplam atis so far = 27799\n"}
+,{"stream_name":"stdout","time":24.338611531,"data":"117: toplam atis so far = 29333\n"}
+,{"stream_name":"stdout","time":24.628447465,"data":"118: toplam atis so far = 31610\n"}
+,{"stream_name":"stdout","time":24.913040815,"data":"119: toplam atis so far = 33597\n"}
+,{"stream_name":"stdout","time":25.226357343,"data":"121: toplam atis so far = 35459\n"}
+,{"stream_name":"stdout","time":25.520164465,"data":"122: toplam atis so far = 37933\n"}
+,{"stream_name":"stdout","time":25.771754024,"data":"123: toplam atis so far = 39450\n"}
+,{"stream_name":"stdout","time":26.043410401,"data":"124: toplam atis so far = 41068\n"}
+,{"stream_name":"stdout","time":26.359027358,"data":"200: toplam atis so far = 43668\n"}
+,{"stream_name":"stdout","time":26.621752542,"data":"201: toplam atis so far = 45631\n"}
+,{"stream_name":"stdout","time":26.923866966,"data":"202: toplam atis so far = 47766\n"}
+,{"stream_name":"stdout","time":27.222346332,"data":"203: toplam atis so far = 50741\n"}
+,{"stream_name":"stdout","time":27.524315702,"data":"205: toplam atis so far = 53397\n"}
+,{"stream_name":"stdout","time":27.803092102,"data":"207: toplam atis so far = 55256\n"}
+,{"stream_name":"stdout","time":28.129387369,"data":"208: toplam atis so far = 58207\n"}
+,{"stream_name":"stdout","time":28.453095428,"data":"209: toplam atis so far = 61212\n"}
+,{"stream_name":"stdout","time":28.782491406,"data":"210: toplam atis so far = 63860\n"}
+,{"stream_name":"stdout","time":29.102917753,"data":"212: toplam atis so far = 66607\n"}
+,{"stream_name":"stdout","time":29.460316075,"data":"213: toplam atis so far = 69856\n"}
+,{"stream_name":"stdout","time":29.752496308,"data":"214: toplam atis so far = 72114\n"}
+,{"stream_name":"stdout","time":30.110073547,"data":"215: toplam atis so far = 75475\n"}
+,{"stream_name":"stdout","time":30.413578133,"data":"219: toplam atis so far = 77629\n"}
+,{"stream_name":"stdout","time":30.76660274,"data":"220: toplam atis so far = 79675\n"}
+,{"stream_name":"stdout","time":31.065935504,"data":"221: toplam atis so far = 82102\n"}
+,{"stream_name":"stdout","time":31.416496284,"data":"222: toplam atis so far = 84584\n"}
+,{"stream_name":"stdout","time":31.704530461,"data":"223: toplam atis so far = 87189\n"}
+,{"stream_name":"stdout","time":32.047572584,"data":"228: toplam atis so far = 89242\n"}
+,{"stream_name":"stdout","time":32.362744105,"data":"230: toplam atis so far = 91497\n"}
+,{"stream_name":"stdout","time":32.660345737,"data":"231: toplam atis so far = 93068\n"}
+,{"stream_name":"stdout","time":32.957853909,"data":"232: toplam atis so far = 94848\n"}
+,{"stream_name":"stdout","time":33.282856243,"data":"233: toplam atis so far = 97925\n"}
+,{"stream_name":"stdout","time":33.637207235,"data":"234: toplam atis so far = 100678\n"}
+,{"stream_name":"stdout","time":33.637270207,"data":"\n"}
+,{"stream_name":"stdout","time":33.637278109,"data":"Toplam atis: 100678\n"}
+,{"stream_name":"stdout","time":33.640136183,"data":"  N: 90087\n"}
+,{"stream_name":"stdout","time":33.640189053,"data":"  S: 2781\n"}
+,{"stream_name":"stdout","time":33.640209322,"data":"  V: 7008\n"}
+,{"stream_name":"stdout","time":33.640215464,"data":"  F: 802\n"}
+,{"stream_name":"stdout","time":33.803209389,"data":"Train: 18260 hasta sayisi: 24\n"}
+,{"stream_name":"stdout","time":33.803261485,"data":"Val:   15077 hasta sayisi: 6\n"}
+,{"stream_name":"stdout","time":33.803268332,"data":"Test:  32745 hasta sayisi: 14\n"}
+,{"stream_name":"stdout","time":33.803273658,"data":"Kontrol OK: hic hasta iki sette birden yok.\n"}
+,{"stream_name":"stdout","time":34.211187783,"data":"ECGAttentionClassifier(\n"}
+,{"stream_name":"stdout","time":34.21123299,"data":"  (local_conv): LocalConvStem(\n"}
+,{"stream_name":"stdout","time":34.211238165,"data":"    (net): Sequential(\n"}
+,{"stream_name":"stdout","time":34.211241685,"data":"      (0): Conv1d(1, 16, kernel_size=(5,), stride=(1,), padding=(2,))\n"}
+,{"stream_name":"stdout","time":34.211245327,"data":"      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n"}
+,{"stream_name":"stdout","time":34.211248817,"data":"      (2): GELU(approximate='none')\n"}
+,{"stream_name":"stdout","time":34.211252054,"data":"      (3): Conv1d(16, 1, kernel_size=(5,), stride=(1,), padding=(2,))\n"}
+,{"stream_name":"stdout","time":34.211257023,"data":"    )\n"}
+,{"stream_name":"stdout","time":34.211278946,"data":"  )\n"}
+,{"stream_name":"stdout","time":34.211283617,"data":"  (patch_embed): Conv1d(1, 64, kernel_size=(8,), stride=(8,))\n"}
+,{"stream_name":"stdout","time":34.211287366,"data":"  (blocks): ModuleList(\n"}
+,{"stream_name":"stdout","time":34.211290936,"data":"    (0-1): 2 x AttentionBlock(\n"}
+,{"stream_name":"stdout","time":34.211294936,"data":"      (norm1): LayerNorm((64,), eps=1e-05, elementwise_affine=True)\n"}
+,{"stream_name":"stdout","time":34.211298953,"data":"      (attn): MultiheadAttention(\n"}
+,{"stream_name":"stdout","time":34.211302852,"data":"        (out_proj): NonDynamicallyQuantizableLinear(in_features=64, out_features=64, bias=True)\n"}
+,{"stream_name":"stdout","time":34.211307467,"data":"      )\n"}
+,{"stream_name":"stdout","time":34.211311649,"data":"      (norm2): LayerNorm((64,), eps=1e-05, elementwise_affine=True)\n"}
+,{"stream_name":"stdout","time":34.211315639,"data":"      (mlp): Sequential(\n"}
+,{"stream_name":"stdout","time":34.211319507,"data":"        (0): Linear(in_features=64, out_features=128, bias=True)\n"}
+,{"stream_name":"stdout","time":34.21132349,"data":"        (1): GELU(approximate='none')\n"}
+,{"stream_name":"stdout","time":34.211327314,"data":"        (2): Dropout(p=0.1, inplace=False)\n"}
+,{"stream_name":"stdout","time":34.211331123,"data":"        (3): Linear(in_features=128, out_features=64, bias=True)\n"}
+,{"stream_name":"stdout","time":34.211335041,"data":"        (4): Dropout(p=0.1, inplace=False)\n"}
+,{"stream_name":"stdout","time":34.211339277,"data":"      )\n"}
+,{"stream_name":"stdout","time":34.211343012,"data":"    )\n"}
+,{"stream_name":"stdout","time":34.211346782,"data":"  )\n"}
+,{"stream_name":"stdout","time":34.211350947,"data":"  (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)\n"}
+,{"stream_name":"stdout","time":34.211353667,"data":"  (head): Linear(in_features=64, out_features=4, bias=True)\n"}
+,{"stream_name":"stdout","time":34.211356314,"data":")\n"}
+,{"stream_name":"stdout","time":34.211358779,"data":"Parametre sayisi: 70293\n"}
+,{"stream_name":"stdout","time":34.211361567,"data":"Sinif agirliklari: {'N': np.float32(0.31), 'S': np.float32(7.18), 'V': np.float32(1.74), 'F': np.float32(11.47)}\n"}
+,{"stream_name":"stdout","time":57.487597561,"data":"Epoch  1 | train_loss=0.9572 | val_acc=0.6283 | val_macro_f1=0.3082\n"}
+,{"stream_name":"stdout","time":74.421361621,"data":"Epoch  2 | train_loss=0.5290 | val_acc=0.5920 | val_macro_f1=0.3255\n"}
+,{"stream_name":"stdout","time":91.647381791,"data":"Epoch  3 | train_loss=0.4379 | val_acc=0.7382 | val_macro_f1=0.3141\n"}
+,{"stream_name":"stdout","time":108.482345813,"data":"Epoch  4 | train_loss=0.3484 | val_acc=0.5512 | val_macro_f1=0.2464\n"}
+,{"stream_name":"stdout","time":125.276547298,"data":"Epoch  5 | train_loss=0.3103 | val_acc=0.5816 | val_macro_f1=0.2624\n"}
+,{"stream_name":"stdout","time":142.020745845,"data":"Epoch  6 | train_loss=0.2964 | val_acc=0.5283 | val_macro_f1=0.2790\n"}
+,{"stream_name":"stdout","time":158.68477857,"data":"Epoch  7 | train_loss=0.2668 | val_acc=0.7190 | val_macro_f1=0.3160\n"}
+,{"stream_name":"stdout","time":175.535677799,"data":"Epoch  8 | train_loss=0.2817 | val_acc=0.7165 | val_macro_f1=0.3870\n"}
+,{"stream_name":"stdout","time":192.105678917,"data":"Epoch  9 | train_loss=0.2437 | val_acc=0.5400 | val_macro_f1=0.2676\n"}
+,{"stream_name":"stdout","time":208.491403075,"data":"Epoch 10 | train_loss=0.2250 | val_acc=0.7794 | val_macro_f1=0.3546\n"}
+,{"stream_name":"stdout","time":225.023081117,"data":"Epoch 11 | train_loss=0.2109 | val_acc=0.6160 | val_macro_f1=0.3441\n"}
+,{"stream_name":"stdout","time":241.453940565,"data":"Epoch 12 | train_loss=0.2129 | val_acc=0.6796 | val_macro_f1=0.3294\n"}
+,{"stream_name":"stdout","time":257.965349229,"data":"Epoch 13 | train_loss=0.2029 | val_acc=0.5865 | val_macro_f1=0.3231\n"}
+,{"stream_name":"stdout","time":274.532822824,"data":"Epoch 14 | train_loss=0.1789 | val_acc=0.3741 | val_macro_f1=0.2192\n"}
+,{"stream_name":"stdout","time":291.056222112,"data":"Epoch 15 | train_loss=0.2052 | val_acc=0.7206 | val_macro_f1=0.3577\n"}
+,{"stream_name":"stdout","time":307.549361105,"data":"Epoch 16 | train_loss=0.1642 | val_acc=0.6816 | val_macro_f1=0.3376\n"}
+,{"stream_name":"stdout","time":324.0548022,"data":"Epoch 17 | train_loss=0.1535 | val_acc=0.5210 | val_macro_f1=0.2655\n"}
+,{"stream_name":"stdout","time":340.766742468,"data":"Epoch 18 | train_loss=0.1606 | val_acc=0.7341 | val_macro_f1=0.3374\n"}
+,{"stream_name":"stdout","time":357.703845225,"data":"Epoch 19 | train_loss=0.1485 | val_acc=0.5744 | val_macro_f1=0.2710\n"}
+,{"stream_name":"stdout","time":374.876805462,"data":"Epoch 20 | train_loss=0.1446 | val_acc=0.4733 | val_macro_f1=0.2627\n"}
+,{"stream_name":"stdout","time":391.51272429,"data":"Epoch 21 | train_loss=0.1438 | val_acc=0.6160 | val_macro_f1=0.2858\n"}
+,{"stream_name":"stdout","time":408.609138504,"data":"Epoch 22 | train_loss=0.1227 | val_acc=0.6143 | val_macro_f1=0.2851\n"}
+,{"stream_name":"stdout","time":425.554491663,"data":"Epoch 23 | train_loss=0.1262 | val_acc=0.6651 | val_macro_f1=0.3323\n"}
+,{"stream_name":"stdout","time":442.527024613,"data":"Epoch 24 | train_loss=0.1300 | val_acc=0.7229 | val_macro_f1=0.3476\n"}
+,{"stream_name":"stdout","time":459.034797585,"data":"Epoch 25 | train_loss=0.1293 | val_acc=0.7658 | val_macro_f1=0.3687\n"}
+,{"stream_name":"stdout","time":464.23980993,"data":"              precision    recall  f1-score   support\n"}
+,{"stream_name":"stdout","time":464.239864965,"data":"\n"}
+,{"stream_name":"stdout","time":464.240899071,"data":"           N       0.92      0.68      0.78     27204\n"}
+,{"stream_name":"stdout","time":464.240921772,"data":"           S       0.12      0.38      0.18      2042\n"}
+,{"stream_name":"stdout","time":464.240927818,"data":"           V       0.44      0.80      0.56      3106\n"}
+,{"stream_name":"stdout","time":464.240933192,"data":"           F       0.00      0.00      0.00       393\n"}
+,{"stream_name":"stdout","time":464.240938486,"data":"\n"}
+,{"stream_name":"stdout","time":464.240943383,"data":"    accuracy                           0.67     32745\n"}
+,{"stream_name":"stdout","time":464.240948245,"data":"   macro avg       0.37      0.47      0.38     32745\n"}
+,{"stream_name":"stdout","time":464.240954122,"data":"weighted avg       0.81      0.67      0.72     32745\n"}
+,{"stream_name":"stdout","time":464.2409595,"data":"\n"}
+,{"stream_name":"stdout","time":464.240964441,"data":"Confusion matrix (satir=gercek, sutun=tahmin), siralama: ['N', 'S', 'V', 'F']\n"}
+,{"stream_name":"stdout","time":464.240969728,"data":"[[18608  5594  2883   119]\n"}
+,{"stream_name":"stdout","time":464.240974743,"data":" [ 1030   770   235     7]\n"}
+,{"stream_name":"stdout","time":464.240979768,"data":" [  418   122  2490    76]\n"}
+,{"stream_name":"stdout","time":464.240984803,"data":" [  231    59   102     1]]\n"}
+,{"stream_name":"stdout","time":474.407111006,"data":"Katman sayisi: 2, head sayisi: 4\n"}
+,{"stream_name":"stdout","time":474.407166898,"data":"Ornek bulunan siniflar: ['N', 'S', 'V', 'F']\n"}
+,{"stream_name":"stderr","time":482.527824225,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":482.527882369,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":482.745468062,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":482.745512276,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":483.530250568,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":483.954850524,"data":"[NbConvertApp] Writing 549599 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":487.059500126,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":488.23998477,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":488.240033781,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":488.240348176,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":488.2405812,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":488.240898283,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":488.241208419,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":488.241455906,"data":"[NbConvertApp] Writing 375019 bytes to __results__.html\n"}
+]

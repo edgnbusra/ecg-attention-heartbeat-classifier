@@ -73,15 +73,3 @@ for the Kaggle dataset used (`mondejar/mitbih-database`).
 - Single train/val/test split; results should be confirmed with patient-level k-fold
   cross-validation.
 - Not clinically validated — this is a learning project, not a diagnostic tool.
-
----
-
-## Türkçe Özet
-
-MIT-BIH Arrhythmia Database üzerinden, her kalp atışını küçük zaman dilimlerine (token) bölüp
-self-attention ile Normal/Supraventriküler/Ventriküler/Füzyon (AAMI N/S/V/F) sınıflandırması
-yapan küçük bir Transformer modeli. Hasta-bazlı (patient-level) train/test bölmesiyle veri
-sızıntısı engellenmiş, sonuçlar bu nedenle daha düşük ama daha gerçekçidir (%67 doğruluk,
-makro-F1 0.38). Attention ağırlıkları, modelin QRS/R-peak bölgesine tutarlı şekilde
-odaklandığını gösteriyor. Detaylı analiz ve tartışma için yukarıdaki Kaggle notebook linkine
-bakabilirsiniz.
